@@ -1,0 +1,7 @@
+
+
+name="Aniket, lion, tiger"
+
+a=10
+b=20
+value=$((a + b))
